@@ -1,0 +1,1 @@
+1) comparator code in the Arrays.sort method is called in the DIFFERENT thread than the call to sort method.

@@ -1,0 +1,5 @@
+1) Page 3, NOTE: You shouldn't compare x-y to compare x and y since the operation can overflow
+for large operands of opposite sign.
+
+2) Lambda Expression: is simple a block of code, together with specification of any variables 
+that must be passed to the code.
